@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi, I'm Endcrypt, but my online friends usually call me "End."
-I'm currently learning Java and Python. I enjoy building plugins, bots, and game systems during my free time..
+I'm currently learning Java and Python. I enjoy building plugins, bots, and game systems during my free time.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=EndcryptZ&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
